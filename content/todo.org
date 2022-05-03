@@ -1,0 +1,94 @@
+#+TODO: TODO(t) PROJ(p) | DONE(d) KILL(k)
+
+
+* Todos
+** UK
+*** DONE Planifier test anglais lex & fi
+    SCHEDULED: <2022-04-01 Fri>
+    :PROPERTIES:
+    :CREATED: [2022-03-23 Wed]
+    :END:
+*** TODO How to get nhs number
+    SCHEDULED: <2022-03-31 Thu>
+*** TODO Bank account hsbc
+    SCHEDULED: <2022-03-31 Thu>
+*** TODO plan trip to london
+    DEADLINE: <2022-05-15 Sun -60d>
+
+** DONE Procuration 2e tour
+   SCHEDULED: <2022-04-11 Mon>
+
+** DONE book pietrasanta tickets
+annemarie et co arrive between 3 and 4pm
+DEADLINE: <2022-04-08 Fri> SCHEDULED: <2022-04-07 Thu>
+
+** TODO Passport and ID
+   SCHEDULED: <2022-11-01 Tue>
+** DONE print PACS papers at parents and scan ID doc
+   SCHEDULED: <2022-04-10 Sun>
+
+** TODO bring PACS documents to mairie
+   SCHEDULED: <2022-04-27 Wed>
+
+** TODO review what Patrick said in March
+   SCHEDULED: <2022-05-06 Fri>
+   :PROPERTIES:
+   :CREATED: [2022-03-27 Sun]
+   :END:
+** DONE write to gavin for september
+   SCHEDULED: <2022-04-01 Fri>
+** TODO contacter cabinet gti gestion immo villier, texto rappeler mail :villiers:
+   SCHEDULED: <2022-04-27 Wed>
+[[http://www.immogti.com/immo,gestion.htm][gti gestion]]
+
+** DONE contacter frere pour les meubles
+   SCHEDULED: <2022-04-05 Tue 11:00>
+   :PROPERTIES:
+   :CREATED: [2022-04-04 Mon]
+   :END:
+
+** TODO photos des meubles pour NGUYEN
+   SCHEDULED: <2022-04-28 Thu>
+see email of NGuyen
+
+** TODO buy feld 47 spare part (o ring)
+   SCHEDULED: <2022-11-01 Tue>
+   :PROPERTIES:
+   :CREATED: [2022-04-28 Thu]
+   :END:
+* Habits
+** TODO practice Dutch
+   SCHEDULED: <2022-04-10 Sun .+1d/2d -1m>
+   :PROPERTIES:
+   :STYLE: habit
+   :LAST_REPEAT: [2022-04-09 Sat 23:15]
+   :END:
+   - State "DONE"       from "TODO"       [2022-04-09 Sat 23:15]
+   - State "DONE"       from "TODO"       [2022-04-07 Thu 17:47]
+   - State "DONE"       from "TODO"       [2022-04-06 Wed 21:44]
+   :LOGBOOK:
+   CLOCK: [2022-04-07 jeu. 17:10]--[2022-04-07 jeu. 17:47] =>  0:37
+   CLOCK: [2022-04-06 mer. 21:04]--[2022-04-06 mer. 21:44] =>  0:40
+   :END:
+   - State "DONE"       from "TODO"       [2022-04-04 Mon 16:52]
+* Archive
+** DONE 20 euros to wise account from banque postale
+   SCHEDULED: <2022-03-29 Tue>
+   :PROPERTIES:
+   :CREATED: [2022-03-25 Fri]
+   :END:
+** DONE ask gavin about contract 3cd (tube, vouchers)
+   SCHEDULED: <2022-03-29 Tue>
+   :PROPERTIES:
+   :CREATED: [2022-03-28 Mon]
+   :END:
+** DONE billet thalys for wilfried B day
+   SCHEDULED: <2022-03-29 Tue 08:30>
+   :PROPERTIES:
+   :CREATED: [2022-03-27 Sun]
+   :END:
+** DONE send letter to R&S
+   SCHEDULED: <2022-03-30 Wed>
+   :PROPERTIES:
+   :CREATED: [2022-03-27 Sun]
+   :END:
