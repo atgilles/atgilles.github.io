@@ -1,0 +1,66 @@
+html { font-size:18px; line-height:1.4; color:black; background:url("pics/carbon.jpg"); }
+body { font-size:clamp(1rem, 1.5vw, 2rem); font-family:ManropeVar, KaiTi, STKaiti, FangSong, ä»¿å®‹, STFangSong, åŽæ–‡ä»¿å®‹, sans-serif; height:100%; margin:0; font-weight:400; }
+@font-face { font-family:"MeriB"; src:url("font/MeriB.woff2") format("woff2"), url("font/MeriB.ttf") format("truetype"); } /*Merienda-Bold*/
+@font-face { font-family:"ManropeVar"; src:url("font/ManropeVar.ttf") format("truetype-variations"); font-weight: 1 999; } /*manrope variable*/
+
+*, *:before, *:after { box-sizing:border-box; }
+html, body, img { margin:0; padding:0; }
+span { width:auto; display:inline-block; }
+img { width:100%; height:auto; margin:0px; }
+
+a:link, a:visited, a:active { text-decoration:none; color:#660000; font-size:clamp(0.8rem, 1.5vw, 1.6rem); font-weight:bold;
+  display:block; border:0.2px solid white; border-radius:6px; line-height:1.2; }
+a:focus, a:hover { color:whitesmoke; background:#660000; }
+a img { border:1.5px solid #756142; border-radius:12px; }
+.home img { opacity:0.5; border:1px solid #756142; border-radius:50px; padding:0px; margin:0px; }
+.infopic { position:relative; width:100%; height:auto; margin:0px; }
+.infopic figcaption { position:absolute; bottom:5px; width:100%; padding-top:10px; text-align:center;
+  color:white; font-weight:bold; font-size:1rem; text-shadow:0px 0px 8px rgba(0, 0, 0, 0.7);
+  background:linear-gradient(to top, rgba(0, 0, 0, 0.5), transparent);
+  border:1px solid linear-gradient(to top, rgba(0, 0, 0, 0.5), transparent); border-radius:0 0 12px 12px; }
+.frame { padding:5%; }
+.kitslink { display:inline; color:#756142; font-size:clamp(0.8rem, 1.5vw, 1.6rem); }
+.hide { display:none; }
+
+h1, h2, h3, h4, h5 { text-align:center; padding:0; }
+h1, h2, h3 { font-family:MeriB, KaiTi, STKaiti, FangSong, ä»¿å®‹, STFangSong, åŽæ–‡ä»¿å®‹; }
+h1 { font-size:clamp(2.2rem, 5vw, 7rem); color:#756142; margin:0 auto 1rem; }
+h2 { font-size:clamp(1.7rem, 4vw, 3.4rem); color:#756142; margin:0 auto 0.8rem; }
+h3 { font-size:clamp(1.3rem, 2.4vw, 2.6rem); color:black; margin:0 auto 0.6rem; }
+h4 { font-size:clamp(1rem, 1.5vw, 2rem); color:black; margin:0 auto 0.5rem; }
+h5 { font-size:clamp(0.8rem, 1.2vw, 1.6rem); color:black; margin:0 auto 0.4rem; }
+h6 { font-size:clamp(0.8rem, 1.2vw, 1.6rem); display:inline; color:black; }
+
+.home { position:fixed; top:0; left:0; }
+.capt { background:#660000; font-size:clamp(0.8rem, 1.5vw, 1.6rem); text-align:center; line-height:1.2; font-weight:bold; color:white;
+  width:100%; margin:0 0 1% 0; padding:0; border:2px solid #660000; border-radius:6px;}
+.centre { text-align:center; }
+.just { text-align:justify; }
+.left { text-align:left; }
+.right { text-align:right; }
+.blue { color:#0000FF; } .gold { color:#756142; } .deepred { color:#C40233; } .carmine { color:#960018; } .blood { color:#660000; } .apricot { color:#ffcc99; }
+
+/*cards css*/
+.wrap { width:100%; margin:0 auto; text-align:center; }
+.card { display:inline-block; width:100%; height:auto; margin:0 auto 0.5%; padding:3% 1%;
+   border:1.5px solid #756142; border-radius:10px; background:#fff; }
+.cols2 { columns:2 310px; column-gap:2px; }
+.cols3 { column-gap:1%; }
+.mtop { margin:3.5% auto 0.5%; }
+
+.grid { columns:2; width:100%; font-size:0.8rem; column-gap:2px; margin:0; }
+.grid2 { columns:2; width:100%; font-size:0.8rem; column-gap:2px; margin:0; }
+.grid3 { columns:3; width:100%; font-size:0.8rem; column-gap:0; margin:0; }
+.grid4 { columns:4; width:100%; font-size:0.8rem; column-gap:2px; margin:0; }
+.grid4a { columns:4; width:100%; column-gap:0; margin:0; }
+
+@media only screen and (min-width:620px) {
+  .card { width:92%; margin:0 auto 0.5%; padding:3%; }
+  .ch60 { padding:3% calc((92vw - 60ch)/2); }
+  .ch70 { padding:3% calc((92vw - 70ch)/2); text-align:justify; }
+  .pad1 { padding:1% calc((92vw - 70ch)/2); }
+  .mtop { margin:3.5% auto 0.5%; }
+  .cols3 { columns:3; column-gap:2px; }
+  .grid { columns:4; }
+  .home {width:4%; height:auto; } }
+/*</style>*/
