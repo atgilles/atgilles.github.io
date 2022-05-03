@@ -1,4 +1,4 @@
-name: TOTALLY A NAME
+name: Publish to Github Pages
 
 on:
   push:
@@ -18,8 +18,8 @@ jobs:
       - name: Build the site
         run: ./build.sh
 
-      # - name: Publish generated content to Github Pages
-      #   uses: JamesIves/github-pages-deploy-action@4.1.4
-      #   with:
-      #     branch: gh-pages
-      #     folder: public
+      - name: Publish generated content to Github Pages
+        uses: JamesIves/github-pages-deploy-action@4.1.4
+        with:
+          branch: gh-pages
+          folder: public
