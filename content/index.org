@@ -1,5 +1,4 @@
 #+title: Org Mode Example Site
-#+SETUPFILE: https://fniessen.github.io/org-html-themes/org/theme-readtheorg.setup
 
 * Overview
 
